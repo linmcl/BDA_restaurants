@@ -1,0 +1,9 @@
+type_bonus,duree,prix_achat
+cuillere_bronze,1,20.00
+cuillere_bronze,6,50.00
+cuillere_bronze,12,80.00
+couteau_fer,1,50.00
+couteau_fer,6,100.00
+couteau_fer,12,150.00
+fourchette_or,1,100.00
+fourchette_or,12,200.00

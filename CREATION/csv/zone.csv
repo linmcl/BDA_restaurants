@@ -1,0 +1,4 @@
+num_zone,tarif_max_plat,tarif_entre_billet
+1,50.00,10.00
+2,200.00,20.00
+3,999.99,30.00

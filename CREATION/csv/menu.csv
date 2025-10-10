@@ -1,0 +1,242 @@
+num_zone,nom_restaurant,nom_plat,quantite_max_quotidien,prix
+2,Le Bistrot Français,Soupe à l'oignon,100,14.50
+2,Le Bistrot Français,Bœuf Bourguignon,50,24.50
+2,Le Bistrot Français,Tarte Tatin,30,12.00
+2,Le Bistrot Français,Salade Niçoise,80,14.50
+2,Le Bistrot Français,Mousse au chocolat,60,9.00
+2,Le Bistrot Français,Côte de bœuf,40,32.00
+2,Le Bistrot Français,Ratatouille,70,16.50
+2,Le Bistrot Français,Crème brûlée,50,8.50
+2,Le Bistrot Français,Cassoulet,60,22.00
+2,Le Bistrot Français,Terrine de campagne,90,10.50
+1,La Crêperie Bretonne,Crêpe Complète,200,9.80
+1,La Crêperie Bretonne,Galette Saucisse,150,11.50
+1,La Crêperie Bretonne,Kouign-amann,80,7.50
+1,La Crêperie Bretonne,Crêpe Nutella,180,6.50
+1,La Crêperie Bretonne,Cidre brut,120,5.00
+1,La Crêperie Bretonne,Galette Forestière,100,13.50
+1,La Crêperie Bretonne,Crêpe Suzette,60,10.00
+1,La Crêperie Bretonne,Far Breton,70,8.00
+1,La Crêperie Bretonne,Galette Poireaux,90,12.00
+1,La Crêperie Bretonne,Jus de pomme,150,4.50
+3,Chez Marco,Pizza Margherita,120,32.00
+3,Chez Marco,Spaghetti Carbonara,90,32.50
+3,Chez Marco,Tiramisu,60,12.50
+3,Chez Marco,Bruschetta,100,12.50
+3,Chez Marco,Panna Cotta,50,10.00
+3,Chez Marco,Lasagnes,80,28.00
+3,Chez Marco,Risotto aux champignons,70,23.50
+3,Chez Marco,Carpaccio,40,15.00
+3,Chez Marco,Prosecco,200,14.50
+3,Chez Marco,Tartufo,50,19.00
+3,Le Gourmet Oriental,Poulet Tikka Masala,70,18.50
+3,Le Gourmet Oriental,Naan,200,8.50
+3,Le Gourmet Oriental,Samosas,120,7.50
+3,Le Gourmet Oriental,Biryani,60,22.00
+3,Le Gourmet Oriental,Lassi mangue,150,5.00
+3,Le Gourmet Oriental,Curry vert,90,23.50
+3,Le Gourmet Oriental,Papadums,180,3.50
+3,Le Gourmet Oriental,Thali,50,34.00
+3,Le Gourmet Oriental,Chai,120,4.00
+3,Le Gourmet Oriental,Gulab jamun,80,6.50
+2,Sushi Palace,Sashimi Mix,40,28.00
+2,Sushi Palace,Maki California,80,16.50
+2,Sushi Palace,Edamame,150,5.50
+2,Sushi Palace,Tempura,70,12.50
+2,Sushi Palace,Matcha latte,100,6.00
+2,Sushi Palace,Dragon Roll,60,22.00
+2,Sushi Palace,Uramaki,90,18.50
+2,Sushi Palace,Sake,50,8.00
+2,Sushi Palace,Mochi,120,7.50
+2,Sushi Palace,Salade Wakame,80,9.00
+2,Le Grill Argentin,Entrecôte 300g,60,32.00
+2,Le Grill Argentin,Empanadas,100,9.50
+2,Le Grill Argentin,Flan caramel,50,8.00
+2,Le Grill Argentin,Salade César,80,12.00
+2,Le Grill Argentin,Malbec verre,200,7.00
+2,Le Grill Argentin,Asado,40,35.00
+2,Le Grill Argentin,Provoleta,70,11.50
+2,Le Grill Argentin,Dulce de leche,90,6.50
+2,Le Grill Argentin,Choripán,120,10.00
+2,Le Grill Argentin,Chimichurri,150,3.00
+1,Burger Factory,Burger Classique,150,15.50
+1,Burger Factory,Burger Végétarien,120,14.00
+1,Burger Factory,Milkshake,100,7.50
+1,Burger Factory,Frites,200,5.50
+1,Burger Factory,Onion rings,150,6.50
+1,Burger Factory,Cheeseburger,180,16.50
+1,Burger Factory,Nuggets,160,8.50
+1,Burger Factory,Brownie,90,6.00
+1,Burger Factory,Soda,300,4.00
+1,Burger Factory,Chicken Burger,130,17.00
+3,La Table Étoilée,Menu Découverte,30,65.00
+3,La Table Étoilée,Foie gras maison,40,28.50
+3,La Table Étoilée,Soufflé au chocolat,25,22.00
+3,La Table Étoilée,Plateau fromages,35,24.00
+3,La Table Étoilée,Vin prestige,50,15.00
+3,La Table Étoilée,Turbot rôti,30,42.00
+3,La Table Étoilée,Caviar,20,85.00
+3,La Table Étoilée,Consommé,40,18.00
+3,La Table Étoilée,Sorbet champagne,60,12.50
+3,La Table Étoilée,Café spécial,100,6.00
+2,Le Comptoir Bio,Bowl Vegan,80,16.50
+2,Le Comptoir Bio,Smoothie Detox,120,9.00
+2,Le Comptoir Bio,Cake Carotte,60,7.00
+2,Le Comptoir Bio,Salade Quinoa,90,14.50
+2,Le Comptoir Bio,Thé signature,150,5.50
+2,Le Comptoir Bio,Wrap végé,110,13.00
+2,Le Comptoir Bio,Buddha bowl,70,17.50
+2,Le Comptoir Bio,Energy balls,200,4.50
+2,Le Comptoir Bio,Jus pressé,180,6.50
+2,Le Comptoir Bio,Soupe miso,100,8.00
+1,Pizza Napoli,Pizza Quattro Formaggi,100,18.50
+1,Pizza Napoli,Calzone,80,20.00
+1,Pizza Napoli,Panna Cotta,50,9.50
+1,Pizza Napoli,Antipasti,70,15.00
+1,Pizza Napoli,Limonata,200,4.50
+1,Pizza Napoli,Pizza Diavola,90,19.50
+1,Pizza Napoli,Tiramisu,60,10.00
+1,Pizza Napoli,Bruschetta,120,8.00
+1,Pizza Napoli,Spaghetti,80,16.00
+1,Pizza Napoli,Sorbet citron,100,7.50
+1,La Pasta Fresca,Ravioli aux truffes,60,22.50
+1,La Pasta Fresca,Gnocchi maison,90,18.00
+1,La Pasta Fresca,Tagliatelle carbonara,80,19.50
+1,La Pasta Fresca,Minestrone,120,10.00
+1,La Pasta Fresca,Tiramisu classico,70,9.50
+1,La Pasta Fresca,Focaccia,150,7.50
+1,La Pasta Fresca,Pinot Grigio,100,8.00
+1,La Pasta Fresca,Panna cotta,60,8.50
+1,La Pasta Fresca,Arancini,110,12.00
+1,La Pasta Fresca,Antipasto misto,90,16.00
+1,Wok Master,Poulet croustillant,100,15.50
+1,Wok Master,Nouilles sautées,150,13.00
+1,Wok Master,Raviolis vapeur,120,9.50
+1,Wok Master,Soupe wonton,90,8.00
+1,Wok Master,Canard laqué,60,24.00
+1,Wok Master,Thé jasmin,200,4.50
+1,Wok Master,Beignets de crevette,80,12.50
+1,Wok Master,Riz cantonais,180,10.00
+1,Wok Master,Litchi frais,70,6.00
+1,Wok Master,Bubble tea,130,7.00
+2,Steak & Co,Tomahawk 1kg,30,45.00
+2,Steak & Co,Entrecôte 250g,60,28.00
+2,Steak & Co,Burger wagyu,80,22.00
+2,Steak & Co,Salade Caesar,100,14.50
+2,Steak & Co,Frites maison,200,6.50
+2,Steak & Co,Glace vanille,90,7.00
+2,Steak & Co,Côtelette d'agneau,70,26.00
+2,Steak & Co,Bière artisanale,150,6.00
+2,Steak & Co,Tarte aux pommes,60,9.50
+2,Steak & Co,Plateau de charcuterie,50,18.00
+2,Le Jardin Gourmand,Tartare de bœuf,50,19.50
+2,Le Jardin Gourmand,Saumon gravlax,60,22.00
+2,Le Jardin Gourmand,Risotto aux asperges,80,18.50
+2,Le Jardin Gourmand,Velouté de potiron,100,9.00
+2,Le Jardin Gourmand,Tarte citron meringuée,70,10.50
+2,Le Jardin Gourmand,Chèvre chaud,90,12.00
+2,Le Jardin Gourmand,Magret de canard,60,25.00
+2,Le Jardin Gourmand,Vin blanc sec,120,7.50
+2,Le Jardin Gourmand,Sorbet fruits rouges,80,8.00
+2,Le Jardin Gourmand,Plateau de fromages,40,16.00
+1,Le Café Parisien,Croque-monsieur,150,11.00
+1,Le Café Parisien,Salade de chèvre,100,13.50
+1,Le Café Parisien,Omelette forestière,80,12.00
+1,Le Café Parisien,Soupe du jour,120,7.50
+1,Le Café Parisien,Crêpe au sucre,90,6.00
+1,Le Café Parisien,Café noisette,200,3.50
+1,Le Café Parisien,Tarte aux fraises,60,8.50
+1,Le Café Parisien,Jambon-beurre,130,9.00
+1,Le Café Parisien,Chocolat viennois,100,6.50
+1,Le Café Parisien,Assiette de charcuterie,70,14.00
+2,Bella Napoli,Pizza Regina,110,16.50
+2,Bella Napoli,Calzone végétarien,80,17.50
+2,Bella Napoli,Arancini,90,9.00
+2,Bella Napoli,Tiramisu classique,60,8.50
+2,Bella Napoli,Antipasti misti,70,14.00
+2,Bella Napoli,Spaghetti vongole,80,19.00
+2,Bella Napoli,Limonata,150,5.00
+2,Bella Napoli,Panna cotta,50,7.50
+2,Bella Napoli,Insalata caprese,100,12.50
+2,Bella Napoli,Cappuccino,120,4.50
+2,Curry House,Chicken tikka masala,90,17.00
+2,Curry House,Lamb rogan josh,70,19.50
+2,Curry House,Vegetable korma,100,15.00
+2,Curry House,Pilau rice,150,5.50
+2,Curry House,Garlic naan,120,4.00
+2,Curry House,Samosas,80,6.50
+2,Curry House,Mango lassi,130,5.50
+2,Curry House,Gulab jamun,60,7.00
+2,Curry House,Chai tea,200,3.50
+2,Curry House,Papadums,180,3.00
+1,The Burger Joint,Bacon cheeseburger,140,16.00
+1,The Burger Joint,Chicken avocado burger,110,17.50
+1,The Burger Joint,Vegan black bean burger,100,15.50
+1,The Burger Joint,Sweet potato fries,160,6.50
+1,The Burger Joint,Chocolate shake,120,7.00
+1,The Burger Joint,Onion rings,130,5.50
+1,The Burger Joint,Cobb salad,90,14.00
+1,The Burger Joint,Apple pie,70,8.00
+1,The Burger Joint,Iced tea,200,4.50
+1,The Burger Joint,Chili cheese fries,80,9.50
+1,Sushi Yumi,Sashimi moriawase,50,26.00
+1,Sushi Yumi,Rainbow roll,80,18.50
+1,Sushi Yumi,Edamame,150,5.00
+1,Sushi Yumi,Miso soup,120,4.50
+1,Sushi Yumi,Tempura udon,90,16.00
+1,Sushi Yumi,Green tea ice cream,70,6.50
+1,Sushi Yumi,Dragon roll,60,20.00
+1,Sushi Yumi,Sake nigiri,100,7.50
+1,Sushi Yumi,Matcha latte,130,5.50
+1,Sushi Yumi,California temaki,110,12.00
+1,Brasserie 1930,Choucroute garnie,70,21.00
+1,Brasserie 1930,Steak frites,90,19.50
+1,Brasserie 1930,Sole meunière,60,25.00
+1,Brasserie 1930,Tarte flambée,100,14.00
+1,Brasserie 1930,Mousse au chocolat,80,8.50
+1,Brasserie 1930,Kronenbourg,150,5.00
+1,Brasserie 1930,Soupe à l'ail,120,7.50
+1,Brasserie 1930,Plateau de fruits de mer,40,32.00
+1,Brasserie 1930,Tarte aux myrtilles,60,9.00
+1,Brasserie 1930,Kir royal,90,8.50
+1,Taco Fiesta,Tacos al pastor,120,12.00
+1,Taco Fiesta,Quesadilla,100,10.50
+1,Taco Fiesta,Guacamole,80,7.50
+1,Taco Fiesta,Churros,90,6.00
+1,Taco Fiesta,Margarita,110,8.50
+1,Taco Fiesta,Nachos,150,9.50
+1,Taco Fiesta,Enchiladas,80,14.00
+1,Taco Fiesta,Horchata,130,5.50
+1,Taco Fiesta,Flan,70,6.50
+1,Taco Fiesta,Cerveza,200,5.00
+3,Dragon d'Or,Canard laqué,60,28.00
+3,Dragon d'Or,Raviolis vapeur,120,12.50
+3,Dragon d'Or,Nouilles sautées,150,16.00
+3,Dragon d'Or,Soupe aigre-douce,100,10.00
+3,Dragon d'Or,Boeuf sichuan,80,22.00
+3,Dragon d'Or,Thé jasmin,200,5.00
+3,Dragon d'Or,Riz cantonais,180,8.50
+3,Dragon d'Or,Bonbons sésame,90,7.00
+3,Dragon d'Or,Dim sum,110,14.50
+3,Dragon d'Or,Bubble tea,130,6.50
+3,Healthy Corner,Buddha bowl,100,15.50
+3,Healthy Corner,Smoothie bowl,120,12.00
+3,Healthy Corner,Avocado toast,90,14.00
+3,Healthy Corner,Quinoa salad,110,13.50
+3,Healthy Corner,Energy balls,150,5.50
+3,Healthy Corner,Detox juice,130,7.00
+3,Healthy Corner,Vegan burger,80,16.50
+3,Healthy Corner,Soupe lentilles,100,9.50
+3,Healthy Corner,Chia pudding,70,8.00
+3,Healthy Corner,Thé matcha,200,5.00
+3,La Petite Cour,Menu Dégustation,30,65.00
+3,La Petite Cour,Tartare de saumon,40,18.50
+3,La Petite Cour,Risotto aux champignons,60,22.00
+3,La Petite Cour,Magret de canard,50,102.50
+3,La Petite Cour,Soufflé Grand Marnier,30,65.00
+3,La Petite Cour,Saint-Jacques poêlées,35,72.00
+3,La Petite Cour,Tarte fine aux pommes,50,22.50
+3,La Petite Cour,Vin au verre,100,70.00
+3,La Petite Cour,Café gourmand,80,20.50
+3,La Petite Cour,Menu spécial,3,300
+1,Factory,Crêpe,100,2.50 

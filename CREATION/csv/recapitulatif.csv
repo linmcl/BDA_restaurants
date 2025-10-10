@@ -1,0 +1,171 @@
+num_billet,id_festival,date_horaire,num_zone,nom_restaurant,nom_plat,quantite
+1001,1,2023-07-15 12:30:00,2,Le Bistrot Français,Bœuf Bourguignon,1
+1001,1,2023-07-15 13:45:00,2,Le Bistrot Français,Crème brûlée,1
+1001,1,2023-07-16 13:15:00,1,La Crêperie Bretonne,Galette Saucisse,1
+1001,1,2023-07-16 14:30:00,1,La Crêperie Bretonne,Cidre brut,2
+1002,1,2023-07-16 13:15:00,1,La Crêperie Bretonne,Galette Saucisse,1
+1002,1,2023-07-16 14:30:00,1,La Crêperie Bretonne,Cidre brut,2
+1002,1,2023-07-17 12:45:00,3,Chez Marco,Spaghetti Carbonara,1
+1002,1,2023-07-17 14:00:00,3,Chez Marco,Tiramisu,1
+1003,1,2023-07-17 12:45:00,3,Chez Marco,Spaghetti Carbonara,2
+1003,1,2023-07-17 12:45:00,3,Chez Marco,Tiramisu,2
+1003,1,2023-07-17 14:00:00,3,Chez Marco,Tiramisu,1
+1004,1,2023-07-18 13:00:00,3,Le Gourmet Oriental,Poulet Tikka Masala,1
+1004,1,2023-07-18 14:15:00,3,Le Gourmet Oriental,Naan,2
+1005,1,2023-07-19 12:30:00,2,Sushi Palace,Maki California,1
+1005,1,2023-07-19 13:45:00,2,Sushi Palace,Edamame,1
+1006,1,2023-07-20 13:00:00,2,Le Grill Argentin,Entrecôte 300g,1
+1006,1,2023-07-20 14:15:00,2,Le Grill Argentin,Malbec verre,2
+1008,1,2023-07-16 19:00:00,3,La Table Étoilée,Menu Découverte,1
+1008,1,2023-07-16 21:15:00,3,La Table Étoilée,Vin prestige,2
+1009,1,2023-07-17 19:30:00,2,Le Comptoir Bio,Bowl Vegan,1
+1009,1,2023-07-17 20:45:00,2,Le Comptoir Bio,Smoothie Detox,1
+1010,1,2023-07-18 19:00:00,1,Pizza Napoli,Pizza Quattro Formaggi,1
+1010,1,2023-07-18 20:15:00,1,Pizza Napoli,Limonata,2
+1011,1,2023-07-19 19:30:00,1,La Pasta Fresca,Ravioli aux truffes,1
+1012,1,2023-07-20 19:00:00,1,Wok Master,Poulet croustillant,1
+1012,1,2023-07-20 20:15:00,1,Wok Master,Thé jasmin,2
+1013,1,2023-07-15 12:15:00,2,Steak & Co,Tomahawk 1kg,1
+1014,1,2023-07-16 12:45:00,2,Le Jardin Gourmand,Tartare de bœuf,1
+1014,1,2023-07-16 14:00:00,2,Le Jardin Gourmand,Vin blanc sec,2
+1015,1,2023-07-17 12:15:00,1,Le Café Parisien,Croque-monsieur,1
+1015,1,2023-07-17 13:30:00,1,Le Café Parisien,Café noisette,2
+1016,1,2023-07-18 12:45:00,2,Bella Napoli,Pizza Regina,1
+1016,1,2023-07-18 14:00:00,2,Bella Napoli,Limonata,2
+1017,1,2023-07-19 12:15:00,2,Curry House,Chicken tikka masala,1
+1017,1,2023-07-19 13:30:00,2,Curry House,Mango lassi,2
+1018,1,2023-07-20 12:45:00,1,The Burger Joint,Bacon cheeseburger,1
+1019,1,2023-07-15 19:15:00,1,Sushi Yumi,Sashimi moriawase,1
+1019,1,2023-07-15 20:30:00,1,Sushi Yumi,Matcha latte,1
+1020,1,2023-07-16 19:45:00,1,Brasserie 1930,Choucroute garnie,1
+1020,1,2023-07-16 21:00:00,1,Brasserie 1930,Kronenbourg,2
+1021,1,2023-07-17 19:15:00,1,Taco Fiesta,Tacos al pastor,1
+1021,1,2023-07-17 20:30:00,1,Taco Fiesta,Margarita,2
+1022,1,2023-07-18 19:45:00,3,Dragon d'Or,Canard laqué,1
+1022,1,2023-07-18 21:00:00,3,Dragon d'Or,Thé jasmin,2
+1023,1,2023-07-19 19:15:00,3,Healthy Corner,Buddha bowl,1
+1023,1,2023-07-19 20:30:00,3,Healthy Corner,Thé matcha,1
+1001,1,2023-07-19 19:15:00,3,Healthy Corner,Buddha bowl,3
+1002,1,2023-07-19 20:30:00,3,Healthy Corner,Thé matcha,1
+1003,1,2023-07-19 19:15:00,3,Healthy Corner,Buddha bowl,2
+1004,1,2023-07-19 20:30:00,3,Healthy Corner,Thé matcha,1
+1005,1,2023-07-19 19:15:00,3,Healthy Corner,Buddha bowl,3
+1006,1,2023-07-19 20:30:00,3,Healthy Corner,Thé matcha,1
+1024,1,2023-07-20 19:45:00,3,La Petite Cour,Menu Dégustation,1
+1024,1,2023-07-20 21:00:00,3,La Petite Cour,Vin au verre,2
+1025,1,2023-07-15 12:00:00,2,Le Bistrot Français,Salade Niçoise,1
+1025,1,2023-07-15 13:15:00,2,Le Bistrot Français,Tarte Tatin,1
+1026,1,2023-07-16 12:30:00,1,La Crêperie Bretonne,Crêpe Complète,1
+1026,1,2023-07-16 13:45:00,1,La Crêperie Bretonne,Kouign-amann,1
+1027,1,2023-07-17 12:00:00,3,Chez Marco,Lasagnes,1
+1027,1,2023-07-17 13:15:00,3,Chez Marco,Panna Cotta,1
+1028,1,2023-07-18 12:30:00,3,Le Gourmet Oriental,Biryani,1
+1028,1,2023-07-18 13:45:00,3,Le Gourmet Oriental,Lassi mangue,2
+1029,1,2023-07-19 12:00:00,2,Sushi Palace,Dragon Roll,1
+1029,1,2023-07-19 13:15:00,2,Sushi Palace,Mochi,1
+1030,1,2023-07-20 12:30:00,2,Le Grill Argentin,Asado,1
+1030,1,2023-07-20 13:45:00,2,Le Grill Argentin,Dulce de leche,1
+1032,1,2023-07-16 19:30:00,3,La Table Étoilée,Foie gras maison,1
+1032,1,2023-07-16 20:45:00,3,La Table Étoilée,Soufflé au chocolat,1
+1033,1,2023-07-17 19:00:00,2,Le Comptoir Bio,Wrap végé,5
+1033,1,2023-07-17 20:15:00,2,Le Comptoir Bio,Jus pressé,2
+1034,1,2023-07-18 19:30:00,1,Pizza Napoli,Calzone,4
+1034,1,2023-07-18 20:45:00,1,Pizza Napoli,Antipasti,1
+1035,1,2023-07-19 19:00:00,1,La Pasta Fresca,Gnocchi maison,1
+1035,1,2023-07-19 20:15:00,1,La Pasta Fresca,Tiramisu classico,1
+1036,1,2023-07-20 19:30:00,1,Wok Master,Nouilles sautées,1
+1036,1,2023-07-20 20:45:00,1,Wok Master,Bubble tea,2
+1037,1,2023-07-15 12:45:00,2,Steak & Co,Entrecôte 250g,1
+1037,1,2023-07-15 14:00:00,2,Steak & Co,Frites maison,2
+1038,1,2023-07-16 12:15:00,2,Le Jardin Gourmand,Saumon gravlax,1
+1038,1,2023-07-16 13:30:00,2,Le Jardin Gourmand,Tarte citron meringuée,1
+1039,1,2023-07-17 12:45:00,1,Le Café Parisien,Salade de chèvre,1
+1039,1,2023-07-17 14:00:00,1,Le Café Parisien,Tarte aux fraises,1
+1040,1,2023-07-18 12:15:00,2,Bella Napoli,Calzone végétarien,1
+1040,1,2023-07-18 13:30:00,2,Bella Napoli,Panna cotta,1
+1041,1,2023-07-19 12:45:00,2,Curry House,Lamb rogan josh,2
+1041,1,2023-07-19 14:00:00,2,Curry House,Garlic naan,2
+1042,1,2023-07-20 12:15:00,1,The Burger Joint,Chicken avocado burger,1
+1042,1,2023-07-20 13:30:00,1,The Burger Joint,Sweet potato fries,2
+1043,1,2023-07-15 19:45:00,1,Sushi Yumi,Rainbow roll,1
+1043,1,2023-07-15 21:00:00,1,Sushi Yumi,Miso soup,1
+1044,1,2023-07-16 19:15:00,1,Brasserie 1930,Steak frites,1
+1044,1,2023-07-16 20:30:00,1,Brasserie 1930,Mousse au chocolat,1
+1045,1,2023-07-17 19:45:00,1,Taco Fiesta,Quesadilla,2
+1045,1,2023-07-17 21:00:00,1,Taco Fiesta,Churros,2
+1046,1,2023-07-18 19:15:00,3,Dragon d'Or,Raviolis vapeur,1
+1046,1,2023-07-18 20:30:00,3,Dragon d'Or,Bonbons sésame,2
+1047,1,2023-07-19 19:45:00,3,Healthy Corner,Smoothie bowl,1
+1047,1,2023-07-19 21:00:00,3,Healthy Corner,Chia pudding,1
+1048,1,2023-07-20 19:15:00,3,La Petite Cour,Tartare de saumon,1
+1049,1,2023-07-15 12:30:00,2,Le Bistrot Français,Cassoulet,1
+1049,1,2023-07-15 13:45:00,2,Le Bistrot Français,Terrine de campagne,1
+1050,1,2023-07-16 13:15:00,1,La Crêperie Bretonne,Galette Forestière,1
+1050,1,2023-07-16 14:30:00,1,La Crêperie Bretonne,Far Breton,1
+2001,2,2023-08-12 12:30:00,2,Le Comptoir Bio,Salade Quinoa,1
+2001,2,2023-08-12 13:45:00,2,Le Comptoir Bio,Thé signature,2
+2002,2,2023-08-13 13:15:00,1,Pizza Napoli,Pizza Diavola,1
+2002,2,2023-08-13 14:30:00,1,Pizza Napoli,Spaghetti,1
+2003,2,2023-08-14 12:45:00,1,La Pasta Fresca,Tagliatelle carbonara,1
+2003,2,2023-08-14 14:00:00,1,La Pasta Fresca,Arancini,2
+2004,2,2023-08-15 13:00:00,1,Wok Master,Raviolis vapeur,1
+2004,2,2023-08-15 14:15:00,1,Wok Master,Riz cantonais,2
+2005,2,2023-08-16 12:30:00,2,Steak & Co,Burger wagyu,1
+2005,2,2023-08-16 13:45:00,2,Steak & Co,Glace vanille,1
+2006,2,2023-08-17 13:00:00,2,Le Jardin Gourmand,Risotto aux asperges,2
+2006,2,2023-08-17 14:15:00,2,Le Jardin Gourmand,Sorbet fruits rouges,1
+2007,2,2023-08-12 19:30:00,1,Le Café Parisien,Omelette forestière,1
+2007,2,2023-08-12 20:45:00,1,Le Café Parisien,Chocolat viennois,1
+2008,2,2023-08-13 19:00:00,2,Bella Napoli,Spaghetti vongole,1
+2008,2,2023-08-13 20:15:00,2,Bella Napoli,Insalata caprese,1
+2009,2,2023-08-14 19:30:00,2,Curry House,Vegetable korma,1
+2009,2,2023-08-14 20:45:00,2,Curry House,Pilau rice,2
+2010,2,2023-08-15 19:00:00,1,The Burger Joint,Vegan black bean burger,1
+2010,2,2023-08-15 20:15:00,1,The Burger Joint,Onion rings,2
+2011,2,2023-08-16 19:30:00,1,Sushi Yumi,Tempura udon,2
+2011,2,2023-08-16 20:45:00,1,Sushi Yumi,Green tea ice cream,1
+2012,2,2023-08-17 19:00:00,1,Brasserie 1930,Sole meunière,2
+2012,2,2023-08-17 20:15:00,1,Brasserie 1930,Tarte flambée,1
+2013,2,2023-08-12 12:15:00,2,Le Comptoir Bio,Buddha bowl,1
+2013,2,2023-08-12 13:30:00,2,Le Comptoir Bio,Energy balls,2
+2014,2,2023-08-13 12:45:00,1,Pizza Napoli,Bruschetta,1
+2014,2,2023-08-13 14:00:00,1,Pizza Napoli,Sorbet citron,1
+2015,2,2023-08-14 12:15:00,1,La Pasta Fresca,Minestrone,1
+2015,2,2023-08-14 13:30:00,1,La Pasta Fresca,Focaccia,2
+2016,2,2023-08-15 12:45:00,1,Wok Master,Soupe wonton,1
+2016,2,2023-08-15 14:00:00,1,Wok Master,Litchi frais,2
+2017,2,2023-08-16 12:15:00,2,Steak & Co,Côtelette d'agneau,1
+2017,2,2023-08-16 13:30:00,2,Steak & Co,Bière artisanale,2
+2018,2,2023-08-17 12:45:00,2,Le Jardin Gourmand,Chèvre chaud,1
+2018,2,2023-08-17 14:00:00,2,Le Jardin Gourmand,Plateau de fromages,1
+2019,2,2023-08-12 19:15:00,1,Le Café Parisien,Soupe du jour,1
+2019,2,2023-08-12 20:30:00,1,Le Café Parisien,Crêpe au sucre,1
+2020,2,2023-08-13 19:45:00,2,Bella Napoli,Arancini,1
+2020,2,2023-08-13 21:00:00,2,Bella Napoli,Cappuccino,1
+2021,2,2023-08-14 19:15:00,2,Curry House,Samosas,7
+2021,2,2023-08-14 20:30:00,2,Curry House,Papadums,2
+2022,2,2023-08-15 19:45:00,1,The Burger Joint,Chili cheese fries,1
+2022,2,2023-08-15 21:00:00,1,The Burger Joint,Apple pie,1
+2023,2,2023-08-16 19:15:00,1,Sushi Yumi,California temaki,1
+2023,2,2023-08-16 20:30:00,1,Sushi Yumi,Sake nigiri,2
+2024,2,2023-08-17 19:45:00,1,Brasserie 1930,Plateau de fruits de mer,1
+2024,2,2023-08-17 21:00:00,1,Brasserie 1930,Kir royal,5
+2025,2,2023-08-12 12:00:00,2,Le Comptoir Bio,Soupe miso,4
+2025,2,2023-08-12 13:15:00,2,Le Comptoir Bio,Cake Carotte,1
+2026,2,2023-08-13 12:30:00,1,Pizza Napoli,Tiramisu,2
+2026,2,2023-08-13 13:45:00,1,Pizza Napoli,Panna Cotta,1
+2027,2,2023-08-14 12:00:00,1,La Pasta Fresca,Antipasto misto,1
+2027,2,2023-08-14 13:15:00,1,La Pasta Fresca,Panna cotta,2
+2028,2,2023-08-15 12:30:00,1,Wok Master,Beignets de crevette,1
+2028,2,2023-08-15 13:45:00,1,Wok Master,Canard laqué,10
+2029,2,2023-08-16 12:00:00,2,Steak & Co,Tarte aux pommes,1
+2029,2,2023-08-16 13:15:00,2,Steak & Co,Plateau de charcuterie,1
+2030,2,2023-08-17 12:30:00,2,Le Jardin Gourmand,Velouté de potiron,1
+2030,2,2023-08-17 13:45:00,2,Le Jardin Gourmand,Magret de canard,2
+2001,2,2023-08-17 12:30:00,2,Le Jardin Gourmand,Velouté de potiron,3
+2002,2,2023-08-17 13:45:00,2,Le Jardin Gourmand,Magret de canard,1
+1001,1,2023-07-16 13:15:00,2,Le Bistrot Français,Tarte Tatin,1
+1002,1,2023-07-16 12:15:00,2,Le Bistrot Français,Tarte Tatin,1
+1003,1,2023-07-16 14:15:00,2,Le Bistrot Français,Terrine de campagne,1
+1004,1,2023-07-16 11:15:00,2,Le Bistrot Français,Terrine de campagne,1
+1005,1,2023-07-16 12:15:00,2,Le Bistrot Français,Terrine de campagne,3
